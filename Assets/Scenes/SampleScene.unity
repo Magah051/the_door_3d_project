@@ -2703,7 +2703,7 @@ MonoBehaviour:
   UIText: {fileID: 59397754}
   invKey: {fileID: 1207948098}
   fadeFX: {fileID: 912613873}
-  nextSceneName: DeathScene
+  nextSceneName: MainMenu
 --- !u!65 &690168785
 BoxCollider:
   m_ObjectHideFlags: 0
